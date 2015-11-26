@@ -4,7 +4,7 @@
  * The object is call info
  * 
  * Creator: Guillem LLuch Moll guillem72 gmail.com
- * Licence: public domain
+ * License: MIT
  * 
  * */
 var fs=require("fs");
